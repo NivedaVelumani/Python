@@ -1,0 +1,33 @@
+Patterns
+
+1-->Determine no.of rows have to be printed ,How many rows
+2-->Determine how many coloumns have to be filled
+How many coloums to print ith row?
+3-->What to be print
+ 
+printing will always happens
+------
+-----
+-----
+------
+Here
+****
+****
+****
+****
+N=4
+1--> N
+2--> N
+3--> *
+
+ex-2
+N=4
+*
+**
+***
+****
+1-->N
+2--> i
+3-->*
+
+
